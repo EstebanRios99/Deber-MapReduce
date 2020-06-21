@@ -1,0 +1,156 @@
+{
+"automovil1":{
+      "_id": "08ab3624e93eeabca69e58a911018635",
+      "_rev": "4-055be9dfda7fd279d25039755643ab5c",
+      "Marca": "Chevrolet",
+      "Modelo": " Camaro ZL1",
+      "Cilindraje": 6162,
+      "Tracción": "Tracera",
+      "Color": [
+        "Rojo",
+        "Negro",
+        "Azul",
+        "Gris"
+      ],
+      "Año": 2020,
+      "Precio": 42000
+    },
+ "automovil2":{
+      "_id": "08ab3624e93eeabca69e58a91101adf9",
+      "_rev": "2-050612495915d9474ed31afa0e07f819",
+      "Marca": "Chevrolet",
+      "Modelo": "Sonic",
+      "Cilindraje": 1598,
+      "Tracción": "Delantera",
+      "Color": [
+        "Rojo",
+        "Negro",
+        "Azul",
+        "Gris"
+      ],
+      "Año": 2019,
+      "Precio": 21915
+    },
+  "automovil3":{
+      "_id": "08ab3624e93eeabca69e58a91101c641",
+      "_rev": "2-02b87602779d18a3f3f6878303489068",
+      "Marca": "Chevrolet",
+      "Modelo": "Spark GT",
+      "Cilindraje": 1206,
+      "Tracción": "Delantera",
+    "Color": [
+      "Rojo",
+      "Negro",
+      "Marcuya",
+      "Naranja"
+     ],
+    "Año": 2020,
+    "Precio": 16620
+    },
+  "automovil4":{
+      "_id": "08ab3624e93eeabca69e58a9110215e7",
+      "_rev": "2-15e0e99966cd09138ed367809510543e",
+      "Marca": "Mazda",
+      "Modelo": "Mazda 6 Touring",
+      "Cilindraje": 1998,
+      "Tracción": "Delantera",
+      "Color": [
+        "Rojo",
+        "Negro"
+      ],
+      "Año": 2019,
+      "Precio": 39990
+    },
+      "automovil5":{
+      "_id": "08ab3624e93eeabca69e58a911023349",
+      "_rev": "1-97b83c72e6d39c9e50349fd738edf1bc",
+      "Marca": "Mazda",
+      "Modelo": "Mazda 2 Touring MT",
+      "Cilindraje": 1597,
+      "Tracción": "Delantera",
+      "Color": [
+        "Rojo",
+        "Negro",
+        "Gris"
+      ],
+      "Año": 2019,
+      "Precio": 24990
+    },
+    "automovil6":{
+      "_id": "08ab3624e93eeabca69e58a911023ea6",
+      "_rev": "1-78e2eebbc299b95b6637506f1d484ae8",
+      "Marca": "Nissan",
+      "Modelo": "Nissan Versa Sedán",
+      "Cilindraje": 1600,
+      "Tracción": "Delantera",
+      "Color": [
+        "Rojo",
+        "Gris"
+      ],
+      "Año": 2020,
+      "Precio": 19990
+    },
+    "automovil7":{
+      "_id": "08ab3624e93eeabca69e58a911025d10",
+      "_rev": "1-1c3932585815efc46b17e449f49047e5",
+      "Marca": "Renault",
+      "Modelo": "Renault Logan",
+      "Cilindraje": 1598,
+      "Tracción": "Delantera",
+      "Color": [
+        "Rojo",
+        "Gris",
+        "Negro",
+        "Azul"
+      ],
+      "Año": 2020,
+      "Precio": 16990
+    },
+    "automovil8":{
+      "_id": "08ab3624e93eeabca69e58a911027657",
+      "_rev": "1-26aaa12aced9aa140ccb937dabf78ba2",
+      "Marca": "Renault",
+      "Modelo": "Renault Sandero",
+      "Cilindraje": 1598,
+      "Tracción": "Delantera",
+      "Color": [
+        "Rojo",
+        "Gris",
+        "Negro",
+        "Azul"
+      ],
+      "Año": 2020,
+      "Precio": 14995
+    },
+    "automovil9":{
+      "_id": "08ab3624e93eeabca69e58a91102a630",
+      "_rev": "1-75ef53f432d665612116d6af2747a22a",
+      "Marca": "Renault",
+      "Modelo": "Renault Stepway",
+      "Cilindraje": 1598,
+      "Tracción": "Delantera",
+      "Color": [
+        "Rojo",
+        "Gris",
+        "Negro",
+        "Azul"
+      ],
+      "Año": 2020,
+      "Precio": 17500
+    },
+    "automovil10":{
+      "_id": "08ab3624e93eeabca69e58a91102c01f",
+      "_rev": "1-1e487e0c13459e8e4b01430e16f3f455",
+      "Marca": "Toyota",
+      "Modelo": "Toyota Corolla Compact",
+      "Cilindraje": 2100,
+      "Tracción": "Delantera",
+      "Color": [
+        "Blanco",
+        "Gris",
+        "Negro"
+      ],
+      "Año": 2020,
+      "Precio": 27265
+    }
+}
